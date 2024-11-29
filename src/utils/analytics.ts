@@ -1,5 +1,5 @@
 // Google Analytics tracking ID
-const GA_TRACKING_ID = 'G-BKT0N2EST6'; // Replace with your actual tracking ID
+const GA_TRACKING_ID = 'G-SZFS383069'; // Replace with your actual tracking ID
 
 // Initialize Google Analytics
 export const initializeGA = () => {
